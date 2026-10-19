@@ -1,0 +1,565 @@
+Discovery Program Grant Guidelines – Fellowships (2024 edition – Variation 1)
+Australian Laureate Fellowships
+Future Fellowships
+Discovery Early Career Researcher Award
+
+Commonwealth policy entity: Australian Research Council
+
+Australian Research Council Act 2001
+I, Jason Clare, Minister for Education, having satisfied myself of the matters set out in section 58 of the Australian Research Council Act 2001, approve these grant guidelines under section 59 of that Act.
+Dated 19 August 2025
+Jason Clare Minister for Education
+
+Contents
+1. Discovery Program processes
+2. About the Discovery Program
+3. Grant amount and grant period
+4. Eligibility criteria
+5. What the grant money can be used for
+6. How to apply
+7. The grant selection process
+8. Successful grant applications
+9. Probity
+Part A: Australian Laureate Fellowships
+Part B: Future Fellowships
+Part C: Discovery Early Career Researcher Award (DECRA)
+Appendix A: Glossary
+Appendix B: Eligible Organisations
+
+1. Discovery Program processes
+The Discovery Program is designed to achieve the Australian Government's objectives for research and innovation. This grant program contributes to the ARC's Outcome 1, which is to grow knowledge and innovation through managing research grants, measuring research excellence and providing advice.
+There are five grant opportunities in the Discovery Program. The following process flowchart is relevant to three grant opportunities: Australian Laureate Fellowships; Future Fellowships; and Discovery Early Career Researcher Award.
+The grant opportunity opens. We (the ARC) publish the grant guidelines and advertise on GrantConnect.
+You (the Administering Organisation) complete and submit an application. You will complete an application on the ARC's Research Management System (RMS), addressing eligibility and the assessment criteria.
+We manage the assessment of all applications. We manage the assessment of applications against eligibility criteria and assessment criteria. Your application will be assigned to Detailed Assessors to undertake in-depth assessments. You will have an opportunity to respond to Detailed Assessors' written comments through a rejoinder. Selection Advisory Committee (SAC) members will then assess Your application, consider the Detailed Assessors' ratings and comments and Your rejoinder and assign a final score.
+We make grant recommendations. The SAC considers applications and recommends those to be funded, and the level and duration of funding for each project, to the ARC Accountable Authority. The ARC Accountable Authority then makes an assessment, considering the SAC's advice, compliance with the eligibility criteria and grant application process, alignment with Australian Government priorities and any other due diligence matters.
+Grant decisions are made. The ARC Accountable Authority decides which applications are approved, and the level of funding and duration of funding for each approved project. If the Minister decides the ARC Accountable Authority should not fund a project for reasons relevant to security, defence or international relations of Australia, the Minister must notify the ARC Accountable Authority, advise the Parliamentary Joint Committee on Intelligence and Security and take other steps required under the ARC Act.
+We notify You of the outcome. We advise You if Your application was successful or not through RMS.
+We enter into a grant agreement with You. We will enter into a grant agreement with You through RMS.
+Delivery of the grant. You undertake the grant activity and report to us as set out in Your grant agreement. We manage the grant by monitoring Your progress and making payments.
+
+2. About the Discovery Program
+2.1 The Discovery Program is one of two Programs under the ARC National Competitive Grants Program (NCGP).
+2.2 The ARC administers funding of excellent pure basic, strategic basic and applied research in all disciplines under the NCGP, excluding medical research. The ARC does not fund experimental development.
+Objectives
+2.3 The Discovery Program aims to deliver outcomes of benefit to Australia and build Australia's research capacity through support for:
+a) excellent, internationally-competitive research by individuals and teams;
+b) research training and career opportunities for the best Australian and international researchers;
+c) international collaboration; and
+d) research in Australian Government priority areas.
+Intended outcome
+2.4 The intended outcome of the Discovery Program is to contribute to the growth of Australia's research and innovation capacity.
+About the Discovery Program Fellowships grant opportunities
+2.5 The three Fellowship schemes available under the Discovery Program guidelines are:
+a) Australian Laureate Fellowships—Part A;
+b) Future Fellowships—Part B; and
+c) Discovery Early Career Researcher Award (DECRA)—Part C.
+2.6 The three schemes provide Fellowships for individual researchers at different stages of their careers:
+a) early career researchers through the DECRA;
+b) mid-career researchers through Future Fellowships; and
+c) established researchers through Australian Laureate Fellowships.
+
+3. Grant amount and grant period
+3.1 The ARC may provide funding for project and salary costs as detailed in Table 1. Further details are provided in the scheme specific parts (Parts A to C) of these grant guidelines.
+3.2 We provide salary, salary-related (on-cost) support and project funding as detailed below. Salary and/or project funding will not be awarded in isolation.
+
+Table 1: Discovery Program Fellowships funding and grant period
+
+| Grant Opportunity | Funding for each grant |
+|---|---|
+| Australian Laureate Fellowships (Part A) | salary and salary-related (including on-costs) support as specified on the 'Salaries and Stipends' page of the ARC website towards a Professorial Level E (or equivalent) salary for the Australian Laureate Fellow, for five consecutive years on a full-time basis; salary support as specified on the 'Salaries and Stipends' page of the ARC website for two Postdoctoral Research Associates (PDRAs) for five years each; stipend support as specified on the 'Salaries and Stipends' page of the ARC website for two Postgraduate Researchers (PGRs) for four years each; project costs of up to $300,000 per year for five consecutive years (which may be used to fund additional PDRAs and PGRs); additional funding of up to $20,000 per year for the Kathleen Fitzpatrick or Georgina Sweet Australian Laureate Fellowship for use as part of the ambassadorial role to promote women in research |
+| Future Fellowships (Part B) | salary and salary-related (including on-costs) support at one of three levels for the Future Fellow as specified on the 'Salaries and Stipends' page of the ARC website for four consecutive years on a full-time basis; project costs of up to $60,000 per year for four consecutive years |
+| DECRA (Part C) | salary and salary-related (including on-costs) support as specified on the 'Salaries and Stipends' page of the ARC website for the DECRA recipient for three consecutive years on a full-time basis; project costs of up to $50,000 per year for three consecutive years |
+
+These figures are based on 2024 funding levels and may be subject to variation (for example, due to annual indexation).
+
+4. Eligibility criteria
+What are the eligibility requirements for applications?
+4.1 We will only accept applications from Eligible Organisations as identified in Appendix B. The Eligible Organisation that applies will be the 'Administering Organisation'.
+4.2 If an application was submitted pursuant to these grant guidelines by either the University of Adelaide or the University of South Australia during the period that Adelaide University was being established and becoming operational; and at the time that We award grants pursuant to these grant guidelines, one or more named participants on the application has transferred from one of the Previous Universities to Adelaide University, then We may award the grant to Adelaide University.
+4.3 You must ensure that any additional certification requirements, applied by the ARC as a result of findings of breaches of the Australian Code for the Responsible Conduct of Research (2018), are provided at the grant opportunity closing date for any named participant on an application.
+4.4 Your application must not include medical research as detailed in the ARC Medical Research Policy (2025 version) on the ARC website.
+
+Who is eligible to be a named participant?
+4.5 Named participants are those individual researchers who are nominated for the roles identified for each grant opportunity.
+4.6 Roles that named participants may be nominated for under these guidelines are:
+a) Australian Laureate Fellowship candidates (Part A);
+b) Future Fellowship candidates (Part B); and
+c) DECRA candidates (Part C).
+4.7 All candidates named in an application must:
+a) satisfy the eligibility criteria for the role they are to perform;
+b) take responsibility for the authorship and intellectual content of the application, appropriately citing sources and acknowledging all significant contributions, including from third parties; and
+c) have met their obligations regarding previously funded projects, including submission of satisfactory final reports to the ARC at the grant opportunity closing date.
+4.8 ARC Fellows must not undertake an HDR during the project activity period.
+4.9 A Project cannot start until all named participants meet the eligibility criteria in these grant guidelines.
+4.10 An application will not be considered where We have decided to exclude grant applications involving a particular named participant for a period of time, whether or not they otherwise meet the eligibility criteria.
+
+What are the limits on the number of applications and projects per named participant?
+4.11 These limits only apply to candidates and are designed to ensure that named participants have the capacity to undertake each project.
+4.12 A named participant can be concurrently funded through the Discovery Program for a maximum of:
+a) two projects as a Chief Investigator (CI); or
+b) one ARC Fellowship and one project as a CI; or
+c) one ARC Fellowship or project if the individual is also a Director on an active ARC Centre of Excellence and/or a Special Research Initiative.
+4.13 Applications for Australian Laureate Fellowships, Future Fellowships, DECRA, ARC Centres of Excellence or Special Research Initiatives do not need to meet the project limit requirements at the grant opportunity closing date. If an Australian Laureate Fellowships, Future Fellowships, DECRA, ARC Centres of Excellence or Special Research Initiatives application is successful, named participants must meet the project limits under section 4.11 before the project can start. Project limits can be met by relinquishing existing active project(s), or relinquishing role(s) on existing active projects, or withdrawing application(s) that would exceed the project limits. This may not need to occur until all applications are finalised.
+4.14 It is Your responsibility to determine if applying for, or holding, a project under these grant guidelines will affect an individual researcher's eligibility for other ARC grant opportunities as other ARC grant opportunities may have different project limits. We reserve the right to change project and application limits in future grant guidelines.
+
+5. What the grant money can be used for
+Eligible grant activities
+5.1 The Discovery Program supports research activities that meet the definition of 'research' in the Glossary.
+5.2 You can only spend the grant on eligible expenditure items that directly support the project and in accordance with any additional special conditions in the grant agreement.
+5.3 Eligible expenditure items may include:
+a) salary support for other personnel;
+b) stipends for 1.0 full time equivalent (FTE) HDR;
+c) expert services of a third party;
+d) equipment and consumables;
+e) travel costs essential to the project;
+f) other, which may include access to facilities, publication costs, workshops, etc.
+
+Ineligible grant activities
+5.4 Unless the following activities meet the definition of research, the Discovery Program does not support production of computer programs, research aids and tools, data warehouses, catalogues or bibliographies, or teaching materials.
+5.5 You cannot request or use grant funds for research activities previously funded through any other Commonwealth grant, medical research, experimental development, capital works, general infrastructure costs, costs not directly related to the project, or fees for international students or HECS/HELP liabilities.
+
+6. How to apply
+6.1 Instructions To Applicants will be issued on the opening of the grant opportunity.
+6.2 Your application must be completed in RMS. We will not accept late applications, other than in exceptional circumstances.
+6.3 You cannot change Your application after the closing date and time, unless invited to by the ARC.
+
+7. The grant selection process
+Assessment
+7.1 All applications will be considered through a competitive peer review process, based on how well it meets the weighted assessment criteria, how it is ranked against other applications, and whether it provides value for money.
+7.2 Applications will undergo peer review assessment and recommendations will be made to the ARC Accountable Authority from a Selection Advisory Committee.
+7.3 You are responsible for ensuring that your application is complete and accurate. Giving false or misleading information is a serious offence under the Criminal Code Act 1995 (Cth).
+
+National Interest Test Statement
+7.6 Applicants must provide a National Interest Test statement: a brief response that articulates the benefits of the proposed research in plain English.
+
+Who will approve grants
+7.7 The ARC Accountable Authority will decide which grants to fund, after considering the advice from peer review, and alignment with Australian Government priorities. The ARC Accountable Authority's decision is final in all matters.
+7.8 The outcome of all applications will be published in RMS.
+7.9 The Minister may at any time decide that, for reasons relevant to the security, defence or international relations of Australia, the ARC Accountable Authority should not approve a grant.
+
+Requests not to assess process
+7.10 You may name up to three persons whom You do not wish to assess an application.
+7.11 Only one request containing the names of up to three individual assessors may be submitted per application.
+
+Rejoinder process
+7.14 You will be given the opportunity to respond to assessors' written comments through a rejoinder.
+
+8. Successful grant applications
+Advice and announcement
+8.1 If your grant application is successful, We will give You a copy of the ARC's Accountable Authority's approval no more than 21 days after the decision.
+8.2 We will publicise and report offers and grants awarded, including the following information: Your name and any other parties involved; named participants and their organisations; the project description; Your National Interest Test statement; classifications and international collaboration country names; and the ARC grant funding amount.
+
+Grant Agreements
+8.5 You must enter into a grant agreement with Us to receive a grant.
+8.6 We use the ARC Discovery Program Fellowships grant agreement which contains standard terms and conditions that cannot be changed.
+8.7 You will have 30 calendar days from the date of offer to execute the grant agreement.
+
+How we pay the grant
+8.9 Payments will be made as set out in the grant agreement. Grant funding will typically be paid monthly.
+8.10 The grant offer will specify the approved grant amount. We will not pay more than the approved grant amount under any circumstances.
+
+Responsibilities
+Fellows
+8.16 The Fellow:
+a) must obtain a legal right to work and reside in Australia, prior to the commencement of the project if the candidate is not an Australian citizen;
+b) must reside for more than 50% of the project activity period in Australia;
+c) must work a minimum 80% (0.8 FTE) of their time on research activities related to the Fellowship or Award;
+d) must not spend more than 20% (0.2 FTE) of their time on activities not related to the Fellowships or Award, such as teaching. The Fellowship or Award will not be extended to cover periods of teaching;
+e) must meet relinquishment requirements as specified in the grant agreement; and
+f) meet the additional requirements in the relevant sections of these guidelines (Part A-C).
+
+You (Administering Organisation) responsibilities
+8.17 You must ensure the Fellow has access to parental leave, recreation leave, sick leave, and additional leave of up to twelve months.
+
+Specific research policies and practices
+8.19 All applications and ARC-funded research projects must comply with the Australian Code for the Responsible Conduct of Research (2018).
+8.20 An ethics plan must be in place before commencement of the project.
+8.21 We do not claim ownership of any Intellectual Property arising from the project.
+8.22 All research projects must comply with the ARC Open Access Policy (2021 version).
+8.23 A data management plan must be in place before the project commences.
+
+Monitoring and reporting
+8.24 You must inform us of any changes to Your name, addresses, nominated contact details or bank account details.
+8.25 You must submit reports in line with the grant agreement. Reporting may include End of year reports, Final reports, and Post-project reports.
+8.26 We will monitor progress by assessing Your reports and may conduct site visits or request records.
+
+9. Probity
+9.1 The Australian Government will make sure that the grant opportunity process is fair, according to the published guidelines, incorporates appropriate safeguards against fraud, unlawful activities and other inappropriate conduct.
+
+Appeals process
+9.2 We will only consider appeals against the NCGP administrative process and not against committee decisions, assessor ratings and comments, or the assessment outcome.
+9.3 You must submit an appeal using the Form on the ARC website and have it authorised by the Administering Organisation's Deputy Vice-Chancellor (Research) or equivalent. Appeals must be received by 5.00pm (AEDT/AEST) within 30 days of the date You were notified of the outcome.
+
+Conflict of interest
+9.5 You will be asked to certify as part of Your application that any perceived, potential or existing conflicts of interests have been declared.
+9.6 If a conflict of interest exists or arises, You must have documented processes in place to manage that conflict for the duration of the project.
+
+Privacy and protection of personal information
+9.8 We treat your personal information according to the Australian Privacy Principles and the Privacy Act 1988 (Cth).
+
+Confidential information
+9.11 The Australian Government may use and disclose confidential information about grant applicants and grant recipients to any other Australian Government business or agency.
+
+Freedom of information
+9.13 All documents in the possession of the Australian Government are subject to the Freedom of Information Act 1982 (Cth).
+
+Part A - Australian Laureate Fellowships
+A1.1 The requirements for the Australian Laureate Fellowships scheme set out here must be read together with the Discovery Program requirements detailed in Sections 1-9 of these grant guidelines.
+
+Important dates
+A1.2 The grant commencement date and active project assessment date for each Australian Laureate Fellowships grant opportunity will be available on the ARC website.
+
+Description
+A1.3 The Australian Laureate Fellowships scheme reflects the Australian Government's commitment to excellence in research by supporting world-class researchers to conduct research in Australia.
+A1.4 The scheme encourages applications from the highest-quality researchers by providing eligible Australian Laureate Fellows with project funding in addition to salary and salary-related (on-cost) support.
+A1.5 We may name two successful Australian Laureate Fellows as the Kathleen Fitzpatrick Australian Laureate Fellow and the Georgina Sweet Australian Laureate Fellow. The Kathleen Fitzpatrick Australian Laureate Fellowship may be available to a highly ranked female candidate from the humanities, arts and social science disciplines. The Georgina Sweet Australian Laureate Fellowship may be available to a highly ranked female candidate from the science and technology disciplines. Recipients will be provided with additional funding to undertake an ambassadorial role to promote women in research.
+A1.6 The Kathleen Fitzpatrick Australian Laureate Fellowship and the Georgina Sweet Australian Laureate Fellowship are awarded to:
+a) undertake an ambassadorial role to promote women in research;
+b) mentor early career researchers, particularly women, to encourage them to enter and establish research careers in Australia; and
+c) encourage applications from female research leaders of international reputation.
+
+Objectives
+A1.7 The Australian Laureate Fellowships objectives are to:
+a) attract and retain outstanding researchers and research leaders of international reputation, with exceptional ability to lead, collaborate, mentor and supervise, and enhance their capacity to create an enduring legacy;
+b) build focus and scale in research by forging new links among researchers, the international research community and/or industry and other research end-users;
+c) support a program of innovative and ground-breaking research that addresses a significant problem or gap in knowledge;
+d) create a cohesive research program and implementation plan that represents value for money;
+e) provide an excellent research training environment and exemplary opportunity to nurture early or mid-career researchers;
+f) produce new or advanced knowledge resulting from the outcomes of the research with economic, commercial, environmental, social and/or cultural benefits for Australia.
+
+A2. Grant amount and grant period
+A2.1 We provide salary, salary-related (on-cost) support and project funding as detailed in Table 2. Salary and/or project funding will not be awarded in isolation.
+A2.2 Table 2: Australian Laureate Fellowships funding and grant period
+
+| Category | Details |
+|---|---|
+| Australian Laureate Fellow salary | As specified (including on-costs) on the 'Salaries and Stipends' page of the ARC website towards a Professorial Level E (or equivalent) salary |
+| Australian Laureate Fellow salary duration | Five consecutive years on a full-time basis |
+| Postdoctoral Research Associate (PDRA) salary support | As specified (including on-costs) on the 'Salaries and Stipends' page of the ARC website for each of two PDRAs for five years each |
+| Postgraduate Researcher (PGR) stipend | As specified on the 'Salaries and Stipends' page of the ARC website for each of two PGRs for four years each |
+| Project funding | Up to $300,000 per year, which may include a request for funding for additional postdoctoral researchers and postgraduate students |
+| Project funding duration | Five consecutive years on a full-time basis |
+| Kathleen Fitzpatrick Australian Laureate Fellowship or Georgina Sweet Australian Laureate Fellowship | Additional funding of up to $20,000 per year for use as part of the ambassadorial role to promote women in research |
+
+A2.3 You must provide an Australian Laureate Fellow with a Level E professorial appointment (or equivalent) and salary in line with Your organisation's normal arrangements for the duration of the Australian Laureate Fellowship.
+
+A3. Grant eligibility criteria
+Applications
+A3.1 Applications must:
+a) include only one Australian Laureate Fellowships candidate;
+b) include one Administering Organisation; and
+c) request funding for a minimum of two PDRAs and two PGRs.
+A3.2 An individual can only be named on one Australian Laureate Fellowship in a grant opportunity.
+A3.3 You may apply for an Australian Laureate Fellowship on behalf of an Australian or international researcher.
+
+Australian Laureate Fellowship candidates
+A3.4 A previous recipient of an Australian Laureate Fellowship is not eligible to apply for another Australian Laureate Fellowship.
+
+Kathleen Fitzpatrick Laureate Fellowship or Georgina Sweet Australian Laureate Fellowship
+A3.5 Candidates for a Kathleen Fitzpatrick or Georgina Sweet Australian Laureate Fellowship will be assessed for an Australian Laureate Fellowship prior to being assessed for a Kathleen Fitzpatrick or Georgina Sweet Australian Laureate Fellowship.
+A3.6 To be eligible for either the Kathleen Fitzpatrick Australian Laureate Fellowship or Georgina Sweet Australian Laureate Fellowship the candidate must:
+a) be female;
+b) meet the eligibility criteria for Australian Laureate Fellow; and
+c) include a brief outline of proposed activities for the relevant ambassadorial role within their application.
+A3.7 Candidates for a Kathleen Fitzpatrick or Georgina Sweet Australian Laureate Fellowship will be assessed against the same assessment criteria and will be subject to the same conditions and obligations that apply to all Australian Laureate Fellowship candidates. Preference will be given to candidates who are able to demonstrate outstanding mentoring and capacity building.
+A3.8 We may decide not to award one or both named Fellowships.
+
+A4. The assessment criteria
+A4.1 The assessment criteria for the Australian Laureate Fellowship are:
+a) Investigator/Capability (40%)
+b) Project quality and innovation (25%)
+c) Benefit (10%)
+d) Mentoring and capacity building (25%)
+
+A5. Successful grant applications
+Your responsibilities
+A5.1 It is expected You will employ the Australian Laureate Fellow full time (1.0 FTE) for the project activity period.
+
+Part B - Future Fellowships
+B1.1 This part of the document sets out the specific requirements for the Future Fellowships scheme. This part must be read together with the general Discovery Program requirements detailed in Sections 1-9 of these grant guidelines.
+
+Important dates
+B1.2 The grant commencement date and active project assessment date for each Future Fellowships grant opportunity will be available on the ARC website.
+
+Description
+B1.3 Future Fellowships reflect the Australian Government's commitment to excellence in research by supporting excellent mid-career researchers to undertake high quality research in areas of national and international benefit.
+
+Objectives
+B1.4 The Future Fellowships scheme objectives are to:
+a) support outstanding mid-career researchers, with demonstrated capacity for high-quality research, leadership, research training and mentoring;
+b) support excellent basic and applied research by outstanding mid-career researchers to be recruited and retained by universities in continuing academic positions;
+c) foster national and international research collaboration;
+d) support excellent and innovative research that addresses a significant problem or gap in knowledge and represents value for money;
+e) create new or advanced knowledge resulting from the outcomes of the research with economic, commercial, environmental, social and/or cultural benefits for Australia.
+
+B2. Grant amount and grant period
+B2.1 We provide salary and project funding for the Future Fellowships grant opportunity as detailed in Table 3. Salary and/or project funding will not be awarded in isolation.
+B2.2 Table 3: Future Fellowships funding and grant period
+
+| Category | Details |
+|---|---|
+| Fellowship salary | Requested and/or awarded at one of three salary levels including on-costs (see Table 4) as specified on the 'Salaries and Stipends' page of the ARC website |
+| Fellowship salary duration | Four consecutive years on a full-time basis. A Future Fellowship may be undertaken on a part-time basis not exceeding eight consecutive years |
+| Project funding | Up to $60,000 per year |
+| Project funding duration | Four consecutive years full time |
+
+B2.3 Table 4: Future Fellowship Academic Salary
+
+| Current Academic Salary Level (or equivalent) | Future Fellowship salary level to be requested |
+|---|---|
+| Level A and B | Level 1 (1.0 FTE) |
+| Level C | Level 2 (1.0 FTE) |
+| Level D and E | Level 3 (1.0 FTE) |
+
+B2.4 A Future Fellowship salary must be requested and will be awarded at one of three levels, which provide salary and salary-related (on-cost) funding. You must select the level according to the Future Fellowship candidate's academic level (or equivalent) at the grant opportunity closing date (Table 4). For example, a researcher who is currently an Academic Level C must apply for a Future Fellowship Level 2.
+B2.5 The requested level must align with the Future Fellowship candidate's current academic level unless:
+a) the Future Fellowship candidate is not employed at an Australian university at the time of application, or is an international researcher, in which case the academic level applicable must be fully justified by the Deputy Vice-Chancellor (Research) or equivalent; or
+b) the Future Fellowship candidate has experienced significant interruptions to their academic career, due to family responsibilities as primary care giver and/or due to working with a relevant industry, in which case they may choose the most appropriate salary level. The circumstances of the career interruption and chosen salary level must be justified and certified by the Deputy Vice-Chancellor (Research) or equivalent.
+B2.6 We have discretion in determining the relevant salary level for Future Fellowship candidates.
+
+B3. Grant eligibility criteria
+Applications
+B3.1 Applications must:
+a) include only one Future Fellowships candidate;
+b) include one Administering Organisation; and
+c) have the correct Future Fellowship salary level selected for the candidate.
+B3.2 An individual must not be nominated for more than one Future Fellowship in a grant opportunity.
+
+Future Fellowship candidates
+B3.3 A previous recipient of a Future Fellowship is not eligible to apply for another Future Fellowship.
+B3.4 An individual who has been nominated for a Future Fellowship on three previous occasions, over the period in which the candidate is eligible, is not eligible to apply for another Future Fellowship. This includes applications that were withdrawn after the grant opportunity closing date and applications that We deemed ineligible.
+B3.5 To be eligible, the candidate must, as at the grant opportunity closing date:
+a) have an award of PhD date on or between the grant opportunity eligibility dates listed on the ARC website; or
+b) have an award of PhD date together with an allowable period of career interruption that would be commensurate with an award of PhD Date on or between the grant opportunity eligibility dates listed on the ARC website. More information on allowable career interruptions, and the period allowed for each, is available in the Instructions to Applicants and the 'Eligibility and Career Interruptions Statement' on the ARC website.
+B3.6 Where the Future Fellowship candidate holds a higher research degree that is not a PhD, the Deputy Vice-Chancellor (Research) or equivalent must certify that the qualification meets the level 10 criteria of the Australian Qualifications Framework Second Edition January 2013.
+B3.7 Where the Future Fellowship candidate holds a professional equivalent to a PhD which is relied upon as the relevant qualification, this must be certified by the Deputy Vice-Chancellor (Research) or equivalent.
+
+B4. What the grant money can be used for
+B4.1 The grant money can be used for the activities set out in these grant guidelines and the grant agreement including travel costs essential to the project up to $100,000 over the project activity period. Travel and accommodation costs related to carrying out field research or carers' costs are not included in this $100,000 limit.
+
+B5. The assessment criteria
+B5.1 The assessment criteria for the Future Fellowship candidates are:
+a) Investigator/Capability (50%)
+b) Project quality and innovation (25%)
+c) Benefit (15%)
+d) Feasibility and strategic alignment (10%)
+
+B6. Successful grant applications
+Fellow responsibilities
+B6.1 The Future Fellow may be undertaken on either a full-time, or a part-time basis subject to Your organisation's employment conditions and provided that the Future Fellowship does not exceed eight years from the project start date (excluding any approved periods of leave).
+B6.2 The Future Fellow:
+a) cannot begin another ARC Fellowship until the Future Fellowship has been completed; and
+b) may not engage in other professional employment during the project activity period without prior approval from the Administering Organisation.
+
+Your responsibilities
+B6.3 You must employ the Future Fellow for the project activity period.
+B6.4 You are responsible for managing changes to the Future Fellow's working arrangements.
+
+Part C - Discovery Early Career Researcher Award (DECRA)
+C1.1 This part of the document sets out the specific requirements for the DECRA scheme. This part must be read together with the general Discovery Program requirements detailed in Sections 1-9 of these grant guidelines.
+
+Important dates
+C1.2 The grant commencement date and the active project assessment date for each DECRA grant opportunity will be available on the ARC website.
+
+Description
+C1.3 The DECRA grant opportunity provides focused research support for early career researchers in both teaching and research, and research-only positions.
+
+Objectives
+C1.4 The DECRA scheme objectives are to:
+a) support outstanding early-career researchers with demonstrated capacity for high-quality research and emerging capability for leadership and supervision;
+b) foster collaboration, with national or international researchers;
+c) support excellent and innovative research that addresses a significant problem or gap in knowledge and represents value for money;
+d) create new or advanced knowledge resulting from the outcomes of the research with economic, commercial, environmental, social and/or cultural benefits for Australia; and
+e) advance promising early career researchers and promote enhanced opportunities for diverse career pathways in high-quality and supportive environments.
+
+C2. Grant amount and grant period
+C2.1 We provide a salary and project funding for the DECRA grant opportunity as detailed in Table 6. Salary and/or project funding will not be awarded in isolation.
+C2.2 Table 6: Discovery Early Career Researcher Award funding and grant period
+
+| Category | Details |
+|---|---|
+| Salary funding level | As specified (including on-costs) on the 'Salaries and Stipends' page of the ARC website |
+| Salary funding duration | Three consecutive years on a full-time basis. A DECRA project may be undertaken on a part-time basis not exceeding six consecutive years |
+| Project funding level | Up to $50,000 per year |
+| Project funding duration | Three consecutive years |
+
+C3. Grant eligibility criteria
+Applications
+C3.1 Applications must:
+a) include only one Discovery Early Career Researcher Award candidate; and
+b) include one Administering Organisation.
+C3.2 An individual must not be nominated for more than one DECRA in a grant opportunity.
+
+DECRA candidates
+C3.3 A previous recipient of a DECRA is not eligible to apply for another DECRA.
+C3.4 An individual who has been nominated for a DECRA on two previous occasions, over the period in which the candidate is eligible, is not eligible to apply for another DECRA. This includes applications that were withdrawn after the grant opportunity closing date and applications that We deemed ineligible.
+C3.5 To be eligible, the candidate must, as at the grant opportunity closing date:
+a) have an award of PhD date on, or after the grant opportunity eligibility dates listed on the ARC website; or
+b) have an award of PhD date together with an allowable period of career interruption that would be commensurate with an award of PhD date on or after the grant opportunity eligibility dates listed on the ARC website. More information on allowable career interruptions, and the period allowed for each, is available in the Instructions to Applicants and the 'Eligibility and Career Interruptions Statement' on the ARC website.
+C3.6 If a DECRA candidate has more than one PhD, the earliest awarded PhD must fall within this timeframe.
+C3.7 Where the DECRA candidate holds a higher research degree that is not a PhD, the Deputy Vice-Chancellor (Research) or equivalent must certify that the qualification meets the level 10 criteria of the Australian Qualifications Framework Second Edition January 2013.
+
+C4. What the grant money can be used for
+C4.1 The grant money can be used for the activities set out in these grant guidelines and the grant agreement including travel costs essential to the project up to $50,000 over the project activity period. Travel and accommodation costs related to carrying out field research or carers' costs are not included in this $50,000 limit.
+
+C5. The assessment criteria
+C5.1 The assessment criteria for the DECRA grant opportunity are:
+a) Investigator/Capability (35%)
+b) Project quality and innovation (35%)
+c) Benefit (15%)
+d) Feasibility (15%)
+
+C6. Successful grant applications
+DECRA responsibilities
+C6.1 The DECRA may be undertaken on either a full-time, or a part-time basis subject to Your organisation's employment conditions and provided that the DECRA does not exceed six years from the project start date (excluding any approved periods of leave).
+C6.2 The DECRA:
+a) cannot begin another ARC Fellowship until the DECRA has been completed.
+
+Your responsibilities
+C6.3 You must employ the DECRA for the project activity period.
+C6.4 You are responsible for managing changes to the DECRA's working arrangements.
+
+Grant Agreement Variation
+C6.5 DECRA salary funding may be used for other purposes to support the project in changed circumstances with Our approval and without extension to the project activity period. These purposes will not include supporting the DECRA recipient to begin another ARC Fellowship.
+C6.6 The use of DECRA salary funding for other project purposes does not confer an exemption from the limits applicable to budget items and personnel for project limits.
+
+Appendix A – Glossary
+Acronyms
+ARC: Australian Research Council
+ARC Act: Australian Research Council Act 2001
+CI: Chief Investigator
+CGRPs: Commonwealth Grants Rules and Principles 2024
+DECRA: Discovery Early Career Researcher Award
+FOI Act: Freedom of Information Act (Cth)
+FTE: Full Time Equivalent
+GST: Goods and Services Tax
+HDR: Higher Degree by Research
+HECS: Higher Education Contribution Scheme
+HELP: Higher Education Loan Program
+IP: Intellectual Property
+NCGP: National Competitive Grants Program
+PDRA: Postdoctoral Research Associate
+PGR: Postgraduate Researcher
+PhD: Doctor of Philosophy
+RMS: Research Management System
+ROPE: Research Opportunity and Performance Evidence
+SAC: Selection Advisory Committee
+
+Definitions
+Aboriginal and/or Torres Strait Islander person: a person of Australian Aboriginal and/or Torres Strait Islander descent who identifies as an Australian Aboriginal and/or Torres Strait Islander person and is accepted as an Australian Aboriginal and/or Torres Strait Islander person by the community in which they live or have lived.
+Accountable Authority: Members of the ARC Board are the Accountable Authority of the ARC as defined in section 5 of the ARC Act.
+active project: a project that is receiving funding according to the terms of an existing Funding Agreement or grant agreement, or has any carryover funds approved by the ARC, or an approved variation to the project end date.
+active project assessment date: the date on which active project eligibility will be considered for project and application limits per named participant which is published on the ARC website.
+Administering Organisation: an Eligible Organisation which submits an application for a grant and which will be responsible for the administration of the grant if the application is approved for funding.
+applicant: the Administering Organisation.
+application: a request for funding submitted through RMS by an Administering Organisation seeking grant funding under an ARC grant program.
+applied research: original investigation undertaken in order to acquire new knowledge. It is, however directed primarily towards a specific, practical aim or objective.
+ARC Board: The ARC Board is appointed by the Minister and consists of the Chair, Deputy Chair and up to seven other members. The ARC Board's function includes determining priorities, strategies and policies from the ARC. The ARC Board is the Accountable Authority of the Australian Research Council.
+ARC College of Experts: the body of experts of international standing appointed to assist the ARC to identify research excellence, moderate external assessments and recommend applications for funding.
+ARC Fellowship: a named Fellowship or Award position within any ARC grant program where the salary is funded wholly or partly by the ARC.
+ARC website: the website accessed using www.arc.gov.au.
+assessment criteria: the specified principles or standards, against which applications will be considered.
+Australian Government priority areas: any areas identified by the Australian Government as priorities for research.
+Australian researcher: an Australian citizen, permanent resident or New Zealand Special Category Visa holder.
+award of PhD date: the date of conferral of a PhD, not the date of submission of the thesis, nor the date the thesis was accepted by the examination board.
+bench fees: fees that an organisation charges for an individual to use infrastructure which would normally be provided by the organisation for their employees.
+candidate: the person nominated in an application for a Discovery Early Career Researcher Award, Future Fellowship, Australian Laureate Fellowship.
+Chief Investigator: a participant who satisfies the eligibility criteria for a CI under the Discovery Program.
+Detailed Assessors: assessors drawn from the ARC assessor community who are assigned applications to review for their specific expertise in a field of research.
+Discovery Program: a program within the NCGP which comprises: Australian Laureate Fellowships, Discovery Early Career Researcher Award, Discovery Indigenous, Discovery Projects, Future Fellowships and other grant opportunities as updated from time to time.
+eligibility criteria: the mandatory criteria which must be met to qualify for a grant. Assessment criteria may apply in addition to eligibility criteria.
+Eligible Organisation: an organisation listed in Appendix B of these grant guidelines.
+experimental development: experimental development is systematic work, drawing on knowledge gained from research and practical experience and producing additional knowledge, which is directed to producing new products or processes or to improving existing products or processes.
+Fellow: the holder of a research fellowship, such as the Australian Laureate Fellowship, Future Fellowship, Discovery Early Career Researcher Award or Discovery Australian Aboriginal and Torres Strait Islander Award.
+field research: the collection of information integral to the project outside a laboratory, library or workplace setting and often in a location external to the participant's normal place of employment.
+grant activity: the project/tasks/services that the grantee is required to undertake. A project consists of several grant activities.
+grant agreement: the agreement entered into by the ARC and an Administering Organisation when an application from that organisation is approved for grant funding.
+grant commencement date: the date on which grant funding may commence which is published on the ARC website.
+grant guidelines: grant guidelines, otherwise known as funding rules, are rules approved by the Minister under section 59 (including as varied under section 60) of the ARC Act.
+grant offer: the details listed in the ARC's RMS under 'Funding Offers' showing the project details and grant amount.
+GrantConnect: the Australian Government's whole-of-government grants information system.
+grantee: the Administering Organisation which has been selected to receive a grant.
+grant opportunity: the specific grant round or process where a Commonwealth grant is made available to potential grantees.
+grant opportunity closing date: the last day on which applications for a grant opportunity will be accepted for consideration for a specific grant opportunity.
+GST: the meaning as given in Section 195-1 of A New Tax System (Goods and Services Tax) Act 1999.
+Higher Degree by Research (HDR): a 'Research Doctorate or Research Masters course, for which at least two-thirds of the student load for the course is required as research work' as defined by the Commonwealth Scholarships Guidelines (Research) 2017.
+in-kind contributions: A contribution of goods, services, materials and/or time to the project from an individual, business or organisation.
+Instructions to Applicants: a set of instructions prepared by the ARC to assist applicants in completing the application form.
+legislative instrument: a law on matters of detail made by a person or body authorised to do so by the relevant enabling legislation.
+medical research: medical research as defined in the ARC Medical Research Policy (2025 version) available on the ARC website.
+Minister: the Minister responsible for the administration of the ARC Act.
+named participants: individual researchers nominated for particular roles in an application.
+national interest: the extent to which the research contributes to Australia's national interest through its potential to have economic, commercial, environmental, social or cultural benefits to the Australian community.
+participants: all named participants on an application (i.e. CIs, PIs, candidates); and all unnamed researchers such as postdoctoral research associates and postgraduate researchers working on a project.
+PhD: a qualification that meets the level 10 criteria of the Australian Qualifications Framework Second Edition January 2013.
+Postdoctoral Research Associate: a postdoctoral research associate funded by the Commonwealth through the Administering Organisation, who will be employed on the project.
+Postgraduate Researcher: a postgraduate research student funded by the Commonwealth through the Administering Organisation, who will undertake a HDR through the project.
+project: an application approved by the ARC Accountable Authority to receive funding from the ARC through an application.
+project activity period: the period during which a project is receiving funding according to the original grant offer, or has any carryover funds approved by the ARC, or an approved variation to the project's end date. During this period, the project is known as an active project.
+project end date: the expected date that the project activity is completed and by which all grant funding will be spent.
+pure basic research: basic research carried out for the advancement of knowledge, without seeking long-term economic or social benefits or making any effort to apply the results to practical problems or to transfer the results to sectors responsible for their application.
+recipient: an individual or organisation who has received grant funding from the ARC.
+research: for the purposes of these grant guidelines, the creation of new knowledge and/or the use of existing knowledge in a new and creative way so as to generate new concepts, methodologies, inventions and understandings.
+research infrastructure: the assets, facilities, services, and coordinated access to major national and/or international research facilities or consortia which directly support research in higher education organisations.
+Research Office: a business unit within an Eligible Organisation that is responsible for contact with the ARC regarding applications and projects.
+Research Opportunity and Performance Evidence (ROPE): an ARC policy framework used to consider and assess the quality and research excellence of a named participant within the context of the participant's career and life experiences.
+research output: all products (including Preprints or comparable resources) of a research project that meet the definition of research.
+Selection Advisory Committee (SAC): a group of experts from academia and industry appointed to assist the ARC to evaluate applications and to provide a recommendation for funding to the ARC Accountable Authority.
+selection criteria: the eligibility criteria and assessment criteria.
+selection process: the method used to select potential grantees.
+Special Condition: a condition specified in a grant offer which governs the use of the funding provided by the ARC.
+strategic basic research: experimental and theoretical work undertaken to acquire new knowledge directed into specified broad areas in the expectation of practical discoveries.
+travel costs: the domestic and international economy travel costs associated with the project, including to foster and strengthen collaborations between researchers in Australia and overseas.
+value for money: 'value for money' is a judgement based on the grant application representing an efficient, effective, economical and ethical use of public resources.
+Variation of Grant Agreement (Variation): a request submitted to the ARC in RMS to agree a change in the grant agreement.
+We: the Australian Research Council (ARC). 'Us' and 'Our' are also used in this context.
+You: the Eligible Organisation that submitted the application. 'Your' is also used in this context.
+
+Appendix B: Eligible Organisations
+Organisation Name | Organisation ABN
+Adelaide University | 41 202 953 738
+Australian Catholic University | 15 050 192 660
+Australian Institute of Aboriginal and Torres Strait Islander Studies | 62 020 533 641
+Avondale University | 53 108 186 401
+Batchelor Institute of Indigenous Tertiary Education | 32 039 179 166
+Bond University | 88 010 694 121
+Central Queensland University | 39 181 103 288
+Charles Darwin University | 54 093 513 649
+Charles Sturt University | 83 878 708 551
+Curtin University | 99 143 842 569
+Deakin University | 56 721 584 203
+Edith Cowan University | 54 361 485 361
+Federation University Australia | 51 818 692 256
+Flinders University | 65 542 596 200
+Griffith University | 78 106 094 461
+James Cook University | 46 253 211 955
+La Trobe University | 64 804 735 113
+Macquarie University | 90 952 801 237
+Monash University | 12 377 614 012
+Murdoch University | 61 616 369 313
+Queensland University of Technology | 83 791 724 622
+Royal Melbourne Institute of Technology (RMIT University) | 49 781 030 034
+Southern Cross University | 41 995 651 524
+Swinburne University of Technology | 13 628 586 699
+The Australian National University | 52 234 063 906
+The University of Adelaide | 61 249 878 937
+The University of Melbourne | 84 002 705 224
+The University of New England | 75 792 454 315
+The University of New South Wales | 57 195 873 179
+The University of Newcastle | 15 736 576 735
+The University of Notre Dame Australia | 69 330 643 210
+The University of Queensland | 63 942 912 684
+The University of Sydney | 15 211 513 464
+The University of Western Australia | 37 882 817 280
+Torrens University Australia | 99 154 937 005
+University of Canberra | 81 633 873 422
+University of Divinity | 95 290 912 141
+University of South Australia | 37 191 313 308
+University of Southern Queensland | 40 234 732 081
+University of Tasmania | 30 764 374 782
+University of Technology Sydney | 77 257 686 961
+University of the Sunshine Coast | 28 441 859 157
+University of Wollongong | 61 060 567 686
+Victoria University | 83 776 954 731
+Western Sydney University | 53 014 069 881

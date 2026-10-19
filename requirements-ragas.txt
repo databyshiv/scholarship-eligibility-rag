@@ -1,0 +1,5 @@
+# Extra packages for RAGAS evaluation (src/ragas_eval.py)
+# Versions pinned together because newer releases of these libraries clash.
+ragas==0.4.3
+langchain-community>=0.3.27,<0.4
+langchain-ollama>=0.3,<1.0

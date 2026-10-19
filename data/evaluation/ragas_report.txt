@@ -1,0 +1,24 @@
+======================================================================
+  RAGAS EVALUATION REPORT
+======================================================================
+  Judge LLM: qwen2.5:7b   Embeddings: BAAI/bge-small-en-v1.5
+  Questions: 5   Run time: 137.9 min
+
+  Metric                                      Mean   Scored
+  faithfulness                               0.422     5/5
+  answer_relevancy                           0.656     5/5
+  llm_context_precision_with_reference       0.547     5/5
+  context_recall                             0.600     5/5
+
+  BY DIFFICULTY
+  CONDITIONAL     faith=0.27  answe=0.82  llm=0.31  conte=0.75
+  EXCEPTION_TRAP  faith=0.62  answe=0.84  llm=0.87  conte=0.50
+  SIMPLE          faith=0.47  answe=0.40  llm=0.62  conte=0.50
+
+  CORRECT vs WRONG VERDICTS (do wrong answers have weaker retrieval / grounding?)
+  correct         faith=0.53  answe=0.82  llm=0.56  conte=0.50
+  wrong           faith=0.35  answe=0.55  llm=0.54  conte=0.67
+
+  Unscored cells (NaN) = the judge's reply could not be parsed; a larger
+  judge model (e.g. qwen2.5:14b) gives fewer of these.
+======================================================================
